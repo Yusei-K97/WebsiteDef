@@ -3,7 +3,7 @@ import { Center } from "@chakra-ui/react";
 
 export const Page4 = () => {
     return(
-        <Center>Page4</Center>
+        <Center fontSize="6xl">Page4</Center>
     );
 
 };
